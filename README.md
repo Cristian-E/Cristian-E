@@ -19,7 +19,7 @@
 <p aling="center">
 
 ![Cristian-E GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-E&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-E&theme=algolia)](https://github.com/Cristian-E/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-E&theme=algolia)]
 
 </p>
 
