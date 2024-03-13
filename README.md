@@ -18,8 +18,8 @@
 
 <p aling="center">
 
-[![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-E&theme=algolia)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-E&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) 
+![Cristian-E GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-E&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-E&theme=algolia)](https://github.com/Cristian-E/github-readme-stats) 
 
 </p>
 
