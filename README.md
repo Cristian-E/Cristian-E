@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Cristian Rodriguez</h1>
+<h1 align="center">Hi 👋, Soy Cristian Rodriguez</h1>
 
 
 ### 🛠 &nbsp;Tech Stack
